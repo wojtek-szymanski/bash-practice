@@ -1,0 +1,10 @@
+# map of compresion formats to unpack commands
+
+tgz=tar -zxvf
+tar.gz=tar -zxvf
+
+tbz2=tar -jxvf
+tar.bz2=tar -jxvf
+
+zip=unzip
+
