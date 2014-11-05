@@ -1,0 +1,4 @@
+bash-practice
+=============
+
+Bash scripting
